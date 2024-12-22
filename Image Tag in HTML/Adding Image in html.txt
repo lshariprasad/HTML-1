@@ -1,0 +1,11 @@
+CODE : 
+[alt=alternative (or) IMAGE NAME ]
+<html>
+  <head>
+    <title>4 NEW TAB</title>
+  </head>
+  <body>
+    <h1>04.Image Tag in html</h1>
+  <img src="images/flower.jpg" alt="NO Image" height="200px" width="200px">
+  </body>
+</html>
