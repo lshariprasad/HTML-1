@@ -1,0 +1,17 @@
+<html>
+  <head>
+  <title>8 NEW TAB</title>
+  </head>
+  <body>
+    <h1>08 ANCHOR TAG IN HTML</h1>
+    <a href="05_Table.html" target="box">05_Table in HTML</a>
+    <br>
+    <a href="06_List tag.html"target="box">06_List Tag</a>
+    <br>
+    <a href="07_marquee.html" target="_blank">07_marquee</a>
+    <iframe src="" name="box" height="100px" width="100px"></ifram>
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/kw6SFbbinnY?si=Mo_Sla5y5qM5-ZVc" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    
+  </body>
+</html>
