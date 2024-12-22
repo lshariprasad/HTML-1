@@ -1,0 +1,13 @@
+<html> 
+  <head>
+    <title> NEW TAB </title>
+  </head>
+  <body> 
+     <h1>Heading Tag-1</h1>
+     <h2>Heading Tag-2</h2>
+     <h3>Heading Tag-3</h3>
+     <h4>Heading Tag-4</h4>
+     <h5>Heading Tag-5</h5>
+     <h6>Heading Tag-6</h6>
+  </body>
+</html>
