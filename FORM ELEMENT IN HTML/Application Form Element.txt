@@ -1,0 +1,71 @@
+CODE:
+<html>
+  <head>
+    <title>3 NEW TAB</title>
+  </head>
+  <body>
+    <h1>09.Form Element in HTML</h1>
+    <fieldset>
+      <legend><b>Registration Form</b></legend>
+      <form>
+        <label><b>NAME :</b></label>
+        <input type="text">
+        <br>
+        
+        <hr>
+        <label><b>PASSWORD</b></label>
+        <input type="password">
+        <br>
+        
+        <label><b>Select Course</b></labe>
+        <select>
+          <option value="C">C-programming</option>
+          <option value="C++">C++-programming</option>
+          <option value="Java">Java</option>
+          <option value="Python">Python</option>
+          </select>
+          <br>
+          
+          <laber><b>Select multiple Course</b></laber>
+          <select multiple>
+          <option value="C">C-programming</option>
+          <option value="C++">C++-programming</option>
+          <option value="Java">Java</option>
+          <option value="Python">Python</option>
+          </select>
+          <br>
+          
+          <label><b>DATE :</b></label>
+          <input type="data">
+          <br>
+          
+          <label><b>ADDRESS :</b></label>
+          <textarea cols="30" row="5"></textarea>
+          <br>
+          
+          <input type="radio" name="gen">Male
+          <input type="radio" name="gen">female
+          <br>
+          
+          <input type="checkbox">I agree
+          <br>
+          
+          <label><b>File Upload :</b></label>
+          <input type="file"multiple>
+          <br>
+          
+          <input type="submit">
+          <br>
+          
+          <button>Save</button>
+          <br>
+          
+          <label><b>color :</b></label>
+          <input type="color">
+          <br>
+          <label><b>Amout :</b></label>
+          <input type="range">
+      </form>
+    </fieldset>
+  </body>
+</html>
