@@ -1,0 +1,38 @@
+CODE :
+Table Tag [tr=Table row , th=Table                                                                   Heading , td=Table data , table line =table border =”1px” , table line for space= table cellpadding=”10”]
+<html>
+  <head>
+    <title>5 NEW TAB</title>
+  </head>
+  <body>
+    <h1>05.Table Tag in html</h1>
+   <table border="1px" cellpadding="10px" cellspacing="10px">
+     <tr>
+       <td colspan="3">USER NAME LIST
+     <tr>
+       <th>SNO</th>
+       <th>NAME</th>
+       <th>CITY</th>
+     </tr>
+     <tr>
+       <td>1</td>
+       <td>HARI</td>
+       <td>CHENNAI</td>
+     </tr>
+     <tr>
+       <td>2</td>
+       <td>ELANGO</td>
+       <td>VELLOR</td>
+     </tr>
+     <tr>
+       <td>3</td>
+       <td>ANITHA</td>
+       <td>SALEM</td>
+     </tr>
+     <tr>
+       <td>4</td>
+       <td>SRI</td>
+       <td>ANDRA</td>
+     </tr>
+  </body>
+</html>
