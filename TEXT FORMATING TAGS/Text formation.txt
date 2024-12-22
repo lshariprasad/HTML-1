@@ -1,0 +1,10 @@
+CODE:[align=”right”]
+<html>
+  <head>
+    <title>2 NEW TAB</title>
+  </head>
+  <body>
+    <h1>02.TEXT FORMATING TAGS</h1>
+    <p align="right">lorem100 English is a very popular language that is spoken all around the world. To communicate effectively in English, it is important to have strong reading comprehension skills. These skills will allow you to read English language newspapers, vocabulary books, and novels! This blog provides readers with English paragraphs for reading, followed by practice exercises to test their comprehension. These English short stories are designed with a student in mind. By doing these short passages of English reading practice, you will be able to improve your English reading skills and better understand the English language.</p>
+  </body>
+</html>
