@@ -1,0 +1,17 @@
+CODE:
+[font face=arial , roboto & etc]
+Total no of size is 1 to 10:[size= `2']
+Any types of colour:[colour=”red”]
+
+<html>
+  <head>
+    <title>3 NEW TAB</title>
+  </head>
+  <body>
+    <h1>03.Font Tag in html</h1>
+    <font face="arial" size=`2' colour=”red”>
+    <p>
+      Paragraphs can contain many different kinds of information. A paragraph could contain a series of brief examples or a single long illustration of a general point. It might describe a place, character, or process; narrate a series of events; compare or contrast two or more things; classify items into categories; or describe causes and effects. Regardless of the kind of information they contain, all paragraphs share certain characteristics. One of the most important of these is a topic sentence.
+    </p>
+  </body>
+</html>
